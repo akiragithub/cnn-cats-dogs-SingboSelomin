@@ -46,6 +46,8 @@ Téléchargez et placez les images dans le répertoire suivant :
 cat_dog_image_classifier/
  └── helper.py
  └── main.ipynb
+ └── readme.md
+ └── requirements.txt
  └── Cat_Dog_data/
      ├── train/
      │    ├── cat/
@@ -68,7 +70,7 @@ Utiliser la classe CNN de `main.py`
 
 ### 🔹 2. Transfert Learning (ResNet18)
 
-Lancer la dernière cellule
+Lancer la dernière cellule de `main.py`
 
 
 ## 🧪 Évaluation & Rechargement du modèle
